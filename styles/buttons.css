@@ -1,0 +1,32 @@
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.docs {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  background-color: white;
+  color: rgb(33, 33, 33);
+  padding: 10px;
+  border-radius: 10px;
+  transition: color 0.3s, background-color 0.3s;
+}
+.docs:hover {
+  color: white;
+  background-color: rgb(33, 33, 33);
+}
+
+.github-logo {
+  margin-bottom: 3rem;
+  color: white;
+  transition: color 0.3s, background-color 0.3s;
+}
+
+.github-logo:hover {
+  color: black;
+}

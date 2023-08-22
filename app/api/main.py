@@ -24,7 +24,7 @@ data = {
 
 def getText(name):
     text = """
-const API_URL = "https://raw.githubusercontent.com/Nusab19/Contest-Hive/main/cache/Data/"""+name+""".json";
+const API_URL = "https://raw.githubusercontent.com/Nusab19/__contest-hive-backend/main/cache/Data/"""+name+""".json";
 
 export async function GET() {
 	const response = await fetch(API_URL, {

@@ -1,0 +1,4 @@
+- make docs component for each platform
+- put /platforms endpoint's docs at first
+- make about page
+- make the css better

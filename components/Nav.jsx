@@ -23,7 +23,7 @@ function Nav() {
           <a href="/about/" target="_blank">
             About
           </a>
-          <a href="https://github.com/Nusab19/" target="_blank">
+          <a href="https://github.com/Nusab19/Contest-Hive" target="_blank">
             Source Code
           </a>
         </div>
